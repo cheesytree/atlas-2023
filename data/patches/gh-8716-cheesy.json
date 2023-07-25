@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "Cheesy",
+	"description": "Otters are the mascots of the German Streamer CheesecakeTree.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/cheesecaketree"
+		],
+		"discord": [
+			"2THeyXx9Cq"
+		]
+	},
+	"path": {
+		"251": [
+			[
+				254,
+				-238
+			],
+			[
+				257,
+				-238
+			],
+			[
+				257,
+				-235
+			],
+			[
+				254,
+				-235
+			]
+		]
+	},
+	"center": {
+		"251": [
+			256,
+			-236
+		]
+	}
+}
